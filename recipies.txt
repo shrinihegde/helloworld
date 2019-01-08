@@ -7,4 +7,6 @@ biryani
 dosa
 milkshake
 
+idly
+poori
 thank you
